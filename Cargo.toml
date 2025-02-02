@@ -1,7 +1,7 @@
 [package]
 name = "libreria_numerica_para_tutorial"
 description = "Es una libreria de un tutorial"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 license = "MIT"
 repository = "https://github.com/Phosphorus-M/libreria_numerica_para_tutorial.git"
